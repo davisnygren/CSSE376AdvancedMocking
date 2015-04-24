@@ -36,7 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Rhino.Mocks">
-      <HintPath>..\..\Rhino.Mocks.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Rhino.Mocks-3.6-Build-21\Rhino.Mocks.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
